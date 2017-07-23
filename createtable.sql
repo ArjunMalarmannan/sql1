@@ -1,0 +1,12 @@
+CREATE TABLE basedetails (
+first_name VARCHAR(15) NOT NULL,
+last_name VARCHAR(15)  NOT NULL,
+middle_name VARCHAR(15) NOT NULL,
+subject1  VARCHAR(15) NOT NULL,
+subject2  VARCHAR(15) NOT NULL,
+subject3  VARCHAR(15) NOT NULL,
+subject4  VARCHAR(15) NOT NULL,
+subject5  VARCHAR(15) NOT NULL,
+subject6  VARCHAR(15) NOT NULL,
+sex  VARCHAR(15) NOT NULL
+);
